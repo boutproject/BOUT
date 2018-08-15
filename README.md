@@ -1,4 +1,7 @@
-#BOUT++
+
+## Archived
+The BOUT++ repository is now at https://github.com/boutproject/BOUT-dev
+
 <!---Build nice shields at shields.io-->
 [![License](https://img.shields.io/badge/license-GPL-blue.svg)](https://img.shields.io/badge/license-GPL-blue.svg)
 > ```
